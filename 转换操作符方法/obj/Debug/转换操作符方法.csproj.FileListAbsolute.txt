@@ -1,0 +1,7 @@
+E:\DotNet\C#\转换操作符方法\转换操作符方法\bin\Debug\转换操作符方法.exe.config
+E:\DotNet\C#\转换操作符方法\转换操作符方法\bin\Debug\转换操作符方法.exe
+E:\DotNet\C#\转换操作符方法\转换操作符方法\bin\Debug\转换操作符方法.pdb
+E:\DotNet\C#\转换操作符方法\转换操作符方法\obj\Debug\转换操作符方法.csprojResolveAssemblyReference.cache
+E:\DotNet\C#\转换操作符方法\转换操作符方法\obj\Debug\转换操作符方法.csproj.CoreCompileInputs.cache
+E:\DotNet\C#\转换操作符方法\转换操作符方法\obj\Debug\转换操作符方法.exe
+E:\DotNet\C#\转换操作符方法\转换操作符方法\obj\Debug\转换操作符方法.pdb
