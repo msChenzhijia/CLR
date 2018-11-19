@@ -1,0 +1,7 @@
+F:\C#\CLR\参数\bin\Debug\参数.exe.config
+F:\C#\CLR\参数\bin\Debug\参数.exe
+F:\C#\CLR\参数\bin\Debug\参数.pdb
+F:\C#\CLR\参数\obj\Debug\参数.csprojAssemblyReference.cache
+F:\C#\CLR\参数\obj\Debug\参数.csproj.CoreCompileInputs.cache
+F:\C#\CLR\参数\obj\Debug\参数.exe
+F:\C#\CLR\参数\obj\Debug\参数.pdb

@@ -1,0 +1,7 @@
+F:\C#\CLR\SystemTuple类型\obj\Debug\SystemTuple类型.csprojAssemblyReference.cache
+F:\C#\CLR\SystemTuple类型\obj\Debug\SystemTuple类型.csproj.CoreCompileInputs.cache
+F:\C#\CLR\SystemTuple类型\bin\Debug\SystemTuple类型.exe.config
+F:\C#\CLR\SystemTuple类型\bin\Debug\SystemTuple类型.exe
+F:\C#\CLR\SystemTuple类型\bin\Debug\SystemTuple类型.pdb
+F:\C#\CLR\SystemTuple类型\obj\Debug\SystemTuple类型.exe
+F:\C#\CLR\SystemTuple类型\obj\Debug\SystemTuple类型.pdb

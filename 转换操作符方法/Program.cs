@@ -27,10 +27,10 @@ namespace 转换操作符方法
         {
             
         }
-        public Int32 ToInt32(Int32 X)
-        {
-            return X;
-        }
+        //public Int32 ToInt32(Int32 X)
+        //{
+        //    return X;
+        //}
         /// <summary>
         /// implicit关键字是告诉编译器位了生成代码来调用方法的,不需要在调用的时候进行显示转换
         /// explicit关键字告诉编译器只有在发现了显示转型时,才调用方法

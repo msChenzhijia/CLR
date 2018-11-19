@@ -1,0 +1,1 @@
+F:\C#\CLR\索引器\obj\Debug\索引器.csproj.CoreCompileInputs.cache

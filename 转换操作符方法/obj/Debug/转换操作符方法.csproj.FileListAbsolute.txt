@@ -5,3 +5,10 @@ E:\DotNet\C#\转换操作符方法\转换操作符方法\obj\Debug\转换操作�
 E:\DotNet\C#\转换操作符方法\转换操作符方法\obj\Debug\转换操作符方法.csproj.CoreCompileInputs.cache
 E:\DotNet\C#\转换操作符方法\转换操作符方法\obj\Debug\转换操作符方法.exe
 E:\DotNet\C#\转换操作符方法\转换操作符方法\obj\Debug\转换操作符方法.pdb
+F:\C#\CLR\转换操作符方法\bin\Debug\转换操作符方法.exe.config
+F:\C#\CLR\转换操作符方法\obj\Debug\转换操作符方法.exe
+F:\C#\CLR\转换操作符方法\obj\Debug\转换操作符方法.pdb
+F:\C#\CLR\转换操作符方法\bin\Debug\转换操作符方法.exe
+F:\C#\CLR\转换操作符方法\bin\Debug\转换操作符方法.pdb
+F:\C#\CLR\转换操作符方法\obj\Debug\转换操作符方法.csprojAssemblyReference.cache
+F:\C#\CLR\转换操作符方法\obj\Debug\转换操作符方法.csproj.CoreCompileInputs.cache
