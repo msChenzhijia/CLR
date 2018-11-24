@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "约束", "约束\约束.csproj", "{D52413BF-25E9-4B21-8808-961447684803}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口", "接口\接口.csproj", "{1D752C64-DF28-49FB-B3D8-18ED2BA6E0BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{D52413BF-25E9-4B21-8808-961447684803}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D52413BF-25E9-4B21-8808-961447684803}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D52413BF-25E9-4B21-8808-961447684803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D752C64-DF28-49FB-B3D8-18ED2BA6E0BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D752C64-DF28-49FB-B3D8-18ED2BA6E0BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D752C64-DF28-49FB-B3D8-18ED2BA6E0BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D752C64-DF28-49FB-B3D8-18ED2BA6E0BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
